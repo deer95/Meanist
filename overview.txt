@@ -1,0 +1,24 @@
+РУССКИЙ МЕДВЕДЬ
+Number of tokens: 155
+Number of lemmas: 93
+
+САМЫЙ ХОЛОДНЫЙ ГОРОД НА ЗЕМЛЕ
+Number of tokens: 114
+Number of lemmas: 83
+
+САНКТ-ПЕТЕРБУРГ
+Number of tokens: 105
+Number of lemmas: 66
+
+ПРИВИДЕНИЕ
+Number of tokens: 147
+Number of lemmas: 99
+
+КОШКИ
+Number of tokens: 95
+Number of lemmas: 73
+
+ФУТБОЛ
+Number of tokens: 158
+Number of lemmas: 105
+
