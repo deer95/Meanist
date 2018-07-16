@@ -19,14 +19,17 @@ new_text = True
 text_str = ''
 
 for line in texts_file:
+    # если встречается разделитель между текстами, заводим новые переменные
     if line == '####\n':
         stemming(text_str)
         new_text = True
         text_str = ''
         continue
+    # записываем название текста
     elif new_text:
         over_file.write(line.upper())
         new_text = False
+    # пишем текст в одну строку
     else:
         text_str += line
 stemming(text_str)
